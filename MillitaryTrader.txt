@@ -1,0 +1,502 @@
+// Casques
+
+MilitaryGear_BallisticHelmet_cheetah,*,	30,		7
+
+MilitaryGear_TankerHelmet_cheetah,*,	30,		7
+
+MilitaryGear_BallisticHelmet_dpm,*,	30,		7
+
+MilitaryGear_TankerHelmet_dpm,*,	30,		7
+
+MilitaryGear_TankerHelmet_dpm,*,	30,		7
+
+MilitaryGear_BallisticHelmet_duckhunter,*,	30,		7
+
+MilitaryGear_TankerHelmet_duckhunter,*,	30,		7
+
+MilitaryGear_BallisticHelmet_FLT,*,	30,		7
+
+MilitaryGear_TankerHelmet_FLT,*,	30,		7
+
+MilitaryGear_BallisticHelmet_MPAT,*,	30,		7
+
+MilitaryGear_TankerHelmet_MPAT,*,	30,		7
+
+MilitaryGear_BallisticHelmet_multicam,*,	30,		7
+
+MilitaryGear_TankerHelmet_multicam,*,	30,		7
+
+MilitaryGear_BallisticHelmet_partizan,*,	30,		7
+
+MilitaryGear_TankerHelmet_partizan,*,	30,		7
+
+MilitaryGear_BallisticHelmet_skol,*,	30,		7
+
+MilitaryGear_TankerHelmet_skol,*,	30,		7
+
+MilitaryGear_BallisticHelmet_splinter,*,	30,		7
+
+MilitaryGear_BallisticHelmet_splinter_dark,*,	30,		7
+
+MilitaryGear_TankerHelmet_splinter_dark,*,	30,		7
+
+MilitaryGear_BallisticHelmet_tiger,*,	30,		7
+
+MilitaryGear_TankerHelmet_tiger,*,	30,		7
+
+MilitaryGear_BallisticHelmet_woodland,*,	30,		7
+
+MilitaryGear_TankerHelmet_woodland,*,	30,		7
+
+MilitaryGear_TankerHelmet_woodland,*,	30,		7
+
+
+
+
+
+
+
+
+// Capûches/Bonnêts (catégorie chapeau)
+
+MilitaryGear_Hood_cheetah,*,	30,		7
+
+MilitaryGear_BoonieHat_cheetah,*,	30,		7
+
+MilitaryGear_Hood_dpm,*,	30,		7
+
+MilitaryGear_BoonieHat_dpm,*,	30,		7
+
+MilitaryGear_Hood_duckhunter,*,	30,		7
+
+MilitaryGear_BoonieHat_duckhunter,*,	30,		7
+
+MilitaryGear_Hood_FLT,*,	30,		7
+
+MilitaryGear_BoonieHat_FLT,*,	30,		7
+
+MilitaryGear_Hood_MPAT,*,	30,		7
+
+MilitaryGear_BoonieHat_MPAT,*,	30,		7
+
+MilitaryGear_Hood_multicam,*,	30,		7
+
+MilitaryGear_BoonieHat_multicam,*,	30,		7
+
+MilitaryGear_Hood_partizan,*,	30,		7
+
+MilitaryGear_BoonieHat_partizan,*,	30,		7
+
+MilitaryGear_Hood_skol,*,	30,		7
+
+MilitaryGear_BoonieHat_skol,*,	30,		7
+
+MilitaryGear_Hood_splinter,*,	30,		7
+
+MilitaryGear_BoonieHat_splinter,*,	30,		7
+
+MilitaryGear_Hood_splinter_dark,*,	30,		7
+
+MilitaryGear_BoonieHat_splinter_dark,*,	30,		7
+
+MilitaryGear_Hood_tiger,*,	30,		7
+
+MilitaryGear_BoonieHat_tiger,*,	30,		7
+
+MilitaryGear_Hood_woodland,*,	30,		7
+
+MilitaryGear_BoonieHat_woodland,*,	30,		7
+
+MilitaryGear_BoonieHat_woodland,*,	30,		7
+
+
+
+// FieldJacket-PatrolJacket
+
+
+MilitaryGear_FieldJacket_cheetah,*,	30,		7
+
+MilitaryGear_PatrolJacket_cheetah,*,	30,		7
+
+MilitaryGear_FieldJacket_dpm,*,	30,		7
+
+MilitaryGear_PatrolJacket_dpm,*,	30,		7
+
+MilitaryGear_FieldJacket_duckhunter,*,	30,		7
+
+MilitaryGear_PatrolJacket_duckhunter,*,	30,		7
+
+MilitaryGear_FieldJacket_FLT,*,	30,		7
+
+MilitaryGear_PatrolJacket_FLT,*,	30,		7
+
+MilitaryGear_FieldJacket_MPAT,*,	30,		7
+
+MilitaryGear_PatrolJacket_MPAT,*,	30,		7
+
+MilitaryGear_FieldJacket_multicam,*,	30,		7
+
+MilitaryGear_PatrolJacket_multicam,*,	30,		7
+
+MilitaryGear_FieldJacket_partizan,*,	30,		7
+
+MilitaryGear_PatrolJacket_partizan,*,	30,		7
+
+MilitaryGear_FieldJacket_skol,*,	30,		7
+
+MilitaryGear_PatrolJacket_skol,*,	30,		7
+
+MilitaryGear_FieldJacket_splinter,*,	30,		7
+
+MilitaryGear_PatrolJacket_splinter,*,	30,		7
+
+MilitaryGear_FieldJacket_splinter_dark,*,	30,		7
+
+MilitaryGear_PatrolJacket_splinter_dark,*,	30,		7
+
+MilitaryGear_FieldJacket_tiger,*,	30,		7
+
+MilitaryGear_PatrolJacket_tiger,*,	30,		7
+
+MilitaryGear_FieldJacket_woodland,*,	30,		7
+
+MilitaryGear_PatrolJacket_woodland,*,	30,		7
+
+
+
+// T-shirt tactiques
+
+MilitaryGear_TacticalShirt_cheetah,*,	30,		7
+
+MilitaryGear_TacticalShirt_dpm,*,	30,		7
+
+MilitaryGear_TacticalShirt_duckhunter,*,	30,		7
+
+MilitaryGear_TacticalShirt_FLT,*,	30,		7
+
+MilitaryGear_TacticalShirt_MPAT,*,	30,		7
+
+MilitaryGear_TacticalShirt_multicam,*,	30,		7
+
+MilitaryGear_TacticalShirt_partizan,*,	30,		7
+
+MilitaryGear_TacticalShirt_skol,*,	30,		7
+
+MilitaryGear_TacticalShirt_splinter,*,	30,		7
+
+MilitaryGear_TacticalShirt_splinter_dark,*,	30,		7
+
+MilitaryGear_TacticalShirt_tiger,*,	30,		7
+
+MilitaryGear_TacticalShirt_woodland,*,	30,		7
+
+
+
+// FieldPants - PatrolPants 
+
+
+MilitaryGear_FieldPants_cheetah,*,	30,		7
+
+MilitaryGear_PatrolPants_cheetah,*,	30,		7
+
+MilitaryGear_TacticalPants_cheetah,*,	30,		7
+
+MilitaryGear_FieldPants_dpm,*,	30,		7
+
+MilitaryGear_PatrolPants_dpm,*,	30,		7
+
+MilitaryGear_TacticalPants_dpm,*,	30,		7
+
+MilitaryGear_FieldPants_duckhunter,*,	30,		7
+
+MilitaryGear_PatrolPants_duckhunter,*,	30,		7
+
+MilitaryGear_TacticalPants_duckhunter,*,	30,		7
+
+MilitaryGear_FieldPants_FLT,*,	30,		7
+
+MilitaryGear_PatrolPants_FLT,*,	30,		7
+
+MilitaryGear_TacticalPants_FLT,*,	30,		7
+
+MilitaryGear_FieldPants_MPAT,*,	30,		7
+
+MilitaryGear_PatrolPants_MPAT,*,	30,		7
+
+MilitaryGear_TacticalPants_MPAT,*,	30,		7
+
+MilitaryGear_FieldPants_multicam,*,	30,		7
+
+MilitaryGear_PatrolPants_multicam,*,	30,		7
+
+MilitaryGear_TacticalPants_multicam,*,	30,		7
+
+MilitaryGear_FieldPants_partizan,*,	30,		7
+
+MilitaryGear_PatrolPants_partizan,*,	30,		7
+
+MilitaryGear_TacticalPants_partizan,*,	30,		7
+
+MilitaryGear_FieldPants_skol,*,	30,		7
+
+MilitaryGear_PatrolPants_skol,*,	30,		7
+
+MilitaryGear_TacticalPants_skol,*,	30,		7
+
+MilitaryGear_FieldPants_splinter,*,	30,		7
+
+MilitaryGear_PatrolPants_splinter,*,	30,		7
+
+MilitaryGear_TacticalPants_splinter,*,	30,		7
+
+MilitaryGear_FieldPants_splinter_dark,*,	30,		7
+
+MilitaryGear_PatrolPants_splinter_dark,*,	30,		7
+
+MilitaryGear_TacticalPants_splinter_dark,*,	30,		7
+
+MilitaryGear_FieldPants_tiger,*,	30,		7
+
+MilitaryGear_PatrolPants_tiger,*,	30,		7
+
+MilitaryGear_TacticalPants_tiger,*,	30,		7
+
+MilitaryGear_FieldPants_woodland,*,	30,		7
+
+MilitaryGear_PatrolPants_woodland,*,	30,		7
+
+MilitaryGear_TacticalPants_woodland,*,	30,		7
+
+
+
+
+// HighCapVest - AssaultVest
+
+MilitaryGear_HighCapVest_cheetah,*,	30,		7
+
+MilitaryGear_AssaultVest_cheetah,*,	30,		7
+
+MilitaryGear_HighCapVest_dpm,*,	30,		7
+
+MilitaryGear_AssaultVest_dpm,*,	30,		7
+
+MilitaryGear_HighCapVest_duckhunter,*,	30,		7
+
+MilitaryGear_AssaultVest_duckhunter,*,	30,		7
+
+MilitaryGear_HighCapVest_FLT,*,	30,		7
+
+MilitaryGear_AssaultVest_FLT,*,	30,		7
+
+MilitaryGear_HighCapVest_MPAT,*,	30,		7
+
+MilitaryGear_AssaultVest_MPAT,*,	30,		7
+
+MilitaryGear_HighCapVest_multicam,*,	30,		7
+
+MilitaryGear_AssaultVest_multicam,*,	30,		7
+
+MilitaryGear_HighCapVest_partizan,*,	30,		7
+
+MilitaryGear_AssaultVest_partizan,*,	30,		7
+
+MilitaryGear_HighCapVest_skol,*,	30,		7
+
+MilitaryGear_AssaultVest_skol,*,	30,		7
+
+MilitaryGear_HighCapVest_splinter,*,	30,		7
+
+MilitaryGear_AssaultVest_splinter,*,	30,		7
+
+MilitaryGear_HighCapVest_splinter_dark,*,	30,		7
+
+MilitaryGear_AssaultVest_splinter_dark,*,	30,		7
+
+MilitaryGear_HighCapVest_tiger,*,	30,		7
+
+MilitaryGear_AssaultVest_tiger,*,	30,		7
+
+MilitaryGear_HighCapVest_woodland,*,	30,		7
+
+MilitaryGear_AssaultVest_woodland,*,	30,		7
+
+
+
+
+// Bags
+
+MilitaryGear_AliceBag_cheetah,*,	30,		7
+
+MilitaryGear_AssaultBag_cheetah,*,	30,		7
+
+MilitaryGear_CoyoteBag_cheetah,*,	30,		7
+
+MilitaryGear_HuntingBag_cheetah,*,	30,		7
+
+MilitaryGear_MountainBag_cheetah,*,	30,		7
+
+MilitaryGear_TortillaBag_cheetah,*,	30,		7
+
+MilitaryGear_AliceBag_dpm,*,	30,		7
+
+MilitaryGear_AssaultBag_dpm,*,	30,		7
+
+MilitaryGear_CoyoteBag_dpm,*,	30,		7
+
+MilitaryGear_HuntingBag_dpm,*,	30,		7
+
+MilitaryGear_MountainBag_dpm,*,	30,		7
+
+MilitaryGear_TortillaBag_dpm,*,	30,		7
+
+MilitaryGear_AliceBag_duckhunter,*,	30,		7
+
+MilitaryGear_AssaultBag_duckhunter,*,	30,		7
+
+MilitaryGear_CoyoteBag_duckhunter,*,	30,		7
+
+MilitaryGear_HuntingBag_duckhunter,*,	30,		7
+
+MilitaryGear_MountainBag_duckhunter,*,	30,		7
+
+MilitaryGear_TortillaBag_duckhunter,*,	30,		7
+
+MilitaryGear_AliceBag_FLT,*,	30,		7
+
+MilitaryGear_AssaultBag_FLT,*,	30,		7
+
+MilitaryGear_CoyoteBag_FLT,*,	30,		7
+
+MilitaryGear_HuntingBag_FLT,*,	30,		7
+
+MilitaryGear_MountainBag_FLT,*,	30,		7
+
+MilitaryGear_TortillaBag_FLT,*,	30,		7
+
+MilitaryGear_AliceBag_MPAT,*,	30,		7
+
+MilitaryGear_AssaultBag_MPAT,*,	30,		7
+
+MilitaryGear_CoyoteBag_MPAT,*,	30,		7
+
+MilitaryGear_HuntingBag_MPAT,*,	30,		7
+
+MilitaryGear_MountainBag_MPAT,*,	30,		7
+
+MilitaryGear_TortillaBag_MPAT,*,	30,		7
+
+MilitaryGear_AliceBag_multicam,*,	30,		7
+
+MilitaryGear_AssaultBag_multicam,*,	30,		7
+
+MilitaryGear_CoyoteBag_multicam,*,	30,		7
+
+MilitaryGear_MountainBag_multicam,*,	30,		7
+
+MilitaryGear_TortillaBag_multicam,*,	30,		7
+
+MilitaryGear_AliceBag_partizan,*,	30,		7
+
+MilitaryGear_AssaultBag_partizan,*,	30,		7
+
+MilitaryGear_CoyoteBag_partizan,*,	30,		7
+
+MilitaryGear_HuntingBag_partizan,*,	30,		7
+
+MilitaryGear_MountainBag_partizan,*,	30,		7
+
+MilitaryGear_TortillaBag_partizan,*,	30,		7
+
+MilitaryGear_AliceBag_skol,*,	30,		7
+
+MilitaryGear_AssaultBag_skol,*,	30,		7
+
+MilitaryGear_CoyoteBag_skol,*,	30,		7
+
+MilitaryGear_HuntingBag_skol,*,	30,		7
+
+MilitaryGear_MountainBag_skol,*,	30,		7
+
+MilitaryGear_TortillaBag_skol,*,	30,		7
+
+MilitaryGear_AliceBag_splinter,*,	30,		7
+
+MilitaryGear_AssaultBag_splinter,*,	30,		7
+
+MilitaryGear_CoyoteBag_splinter,*,	30,		7
+
+MilitaryGear_HuntingBag_splinter,*,	30,		7
+
+MilitaryGear_MountainBag_splinter,*,	30,		7
+
+MilitaryGear_TortillaBag_splinter,*,	30,		7
+
+MilitaryGear_AliceBag_splinter_dark,*,	30,		7
+
+MilitaryGear_AssaultBag_splinter_dark,*,	30,		7
+
+MilitaryGear_CoyoteBag_splinter_dark,*,	30,		7
+
+MilitaryGear_HuntingBag_splinter_dark,*,	30,		7
+
+MilitaryGear_MountainBag_splinter_dark,*,	30,		7
+
+MilitaryGear_TortillaBag_splinter_dark,*,	30,		7
+
+MilitaryGear_AliceBag_tiger,*,	30,		7
+
+MilitaryGear_AssaultBag_tiger,*,	30,		7
+
+MilitaryGear_CoyoteBag_tiger,*,	30,		7
+
+MilitaryGear_HuntingBag_tiger,*,	30,		7
+
+MilitaryGear_MountainBag_tiger,*,	30,		7
+
+MilitaryGear_TortillaBag_tiger,*,	30,		7
+
+MilitaryGear_AliceBag_woodland,*,	30,		7
+
+MilitaryGear_AssaultBag_woodland,*,	30,		7
+
+MilitaryGear_CoyoteBag_woodland,*,	30,		7
+
+MilitaryGear_HuntingBag_woodland,*,	30,		7
+
+MilitaryGear_MountainBag_woodland,*,	30,		7
+
+MilitaryGear_TortillaBag_woodland,*,	30,		7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
