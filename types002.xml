@@ -15335,8 +15335,6 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
 	<type name="WoodStorage">
@@ -15349,8 +15347,6 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
 	<type name="Waterbarrelcomplete">
@@ -15363,8 +15359,6 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
 	<type name="Waterbarrel">
@@ -15377,8 +15371,6 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
 	<type name="BarrelFrame">
@@ -15391,8 +15383,6 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
 		<type name="MilitaryGear_Hood_cheetah">
